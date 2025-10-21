@@ -1,0 +1,24 @@
+{
+  "dataIndex": {
+    "name": "Warhammer 40k 3rd Edition – Vraks",
+    "battleScribeVersion": "2.03.21",
+    "repositoryUrl": "https://github.com/4nc3st0r/40k3rdVraks/",
+    "dataUrl": "https://raw.githubusercontent.com/4nc3st0r/40k3rdVraks/main/",
+    "gameSystemFiles": [
+      {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "name": "Warhammer 40k 3rd Edition",
+        "file": "Warhammer.40k.3rd.Edition.gstz",
+        "revision": 1
+      }
+    ],
+    "catalogueFiles": [
+      {
+        "id": "00000000-0000-0000-0000-000000000001",
+        "name": "Vraks Renegade Militia (2004)",
+        "file": "Vraks Renegade Militia (2004).catz",
+        "revision": 1
+      }
+    ]
+  }
+}
