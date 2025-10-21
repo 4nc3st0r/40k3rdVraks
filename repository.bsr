@@ -1,0 +1,22 @@
+{
+  "repository": {
+    "name": "40k3rd Vraks",
+    "battleScribeVersion": "2.03",
+    "revision": 1,
+    "gameSystems": [
+      {
+        "name": "Warhammer 40,000 3rd Edition",
+        "file": "40k3rdVraks.gst",
+        "revision": 1
+      }
+    ],
+    "catalogues": [
+      {
+        "name": "Vraks",
+        "file": "40k3rdVraks.cat",
+        "revision": 1,
+        "gameSystemId": "40k3rdVraks"
+      }
+    ]
+  }
+}
