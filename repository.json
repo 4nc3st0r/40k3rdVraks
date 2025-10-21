@@ -1,9 +1,8 @@
 {
-  "repositories": [
-    {
-      "name": "Warhammer 40k 3rd Edition \u2013 Vraks",
-      "repoUrl": "https://github.com/4nc3st0r/40k3rdVraks/",
-      "dataUrl": "https://raw.githubusercontent.com/4nc3st0r/40k3rdVraks/main/"
-    }
-  ]
+  "name": "Warhammer 40k 3rd Edition – Vraks",
+  "repoUrl": "https://github.com/4nc3st0r/40k3rdVraks/",
+  "dataUrl": "https://raw.githubusercontent.com/4nc3st0r/40k3rdVraks/main/",
+  "gameSystemId": null,
+  "description": "Vraks Militia for 40k 3rd Edition",
+  "revision": 1
 }
