@@ -6,7 +6,7 @@
     "gameSystems": [
       {
         "name": "Warhammer 40,000 3rd Edition",
-        "file": "40k3rdVraks.gst",
+        "file": "40k3rdVraks.gstz",
         "revision": 1
       }
     ],
