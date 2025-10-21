@@ -13,7 +13,7 @@
     "catalogues": [
       {
         "name": "Vraks",
-        "file": "40k3rdVraks.cat",
+        "file": "40k3rdVraks.catz",
         "revision": 1,
         "gameSystemId": "40k3rdVraks"
       }
